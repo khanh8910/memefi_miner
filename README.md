@@ -40,7 +40,7 @@ changeURL();
 ![image](https://github.com/khanh8910/memefi_miner/assets/29351796/caa2ae05-6fc0-43e6-a2ef-58ec234aee54)
 
 
-5. Just clicking to mining (whether manually or using autoclick).
+5. Done. Now simply click to start mining, either manually or using autoclick.
 
 ![image](https://github.com/khanh8910/memefi_miner/assets/29351796/9b47ec05-1e29-4108-9bf5-cdb5049489e4)
 
