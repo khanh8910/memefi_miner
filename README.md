@@ -2,7 +2,7 @@
 
 Mining Memefi on web browser
 
-1. Open the Telegram link to access memefi_coin_bot [Telegram Web](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dmemefi_coin_bot%26start%3Dr_f64c2b7aa7)
+1. Open the Telegram link to access memefi_coin_bot [Telegram Web](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dmemefi_coin_bot%26start%3Dr_f64c2b7aa7) (My ref: https://t.me/memefi_coin_bot?start=r_f64c2b7aa7)
 2. Start playing app
 
 ![image](https://github.com/khanh8910/memefi_miner/assets/29351796/b5311e84-9a49-4055-b6a0-1c0a64d980f1)
