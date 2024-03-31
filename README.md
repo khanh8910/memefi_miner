@@ -11,7 +11,7 @@ Mining Memefi on web browser
 
 ![image](https://github.com/khanh8910/memefi_miner/assets/29351796/32149114-9bc0-4a54-9ce4-b423e9d05dc2)
 
-4. Paste my script from run.js
+4. Paste my script from run.js file to console. Then enter.
 ```
 function changeURL() {
         function getParameterByName(name, url) {
@@ -36,4 +36,11 @@ function changeURL() {
     }
 changeURL();
 ```
+
+![image](https://github.com/khanh8910/memefi_miner/assets/29351796/caa2ae05-6fc0-43e6-a2ef-58ec234aee54)
+
+
 5. Just clicking to mining (whether manually or using autoclick).
+
+![image](https://github.com/khanh8910/memefi_miner/assets/29351796/9b47ec05-1e29-4108-9bf5-cdb5049489e4)
+
